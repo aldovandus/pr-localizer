@@ -1,0 +1,28 @@
+{
+   "it": {
+    "version": "1.0",
+    "lang": {
+      "promoquiapp::offer": {
+        "searchproduct": "Cerca prodotto",
+        "choosecategory": "Scegli una categoria"
+      },
+      "promoquiapp::site": {
+          "settings": "Impostazioni"
+      }
+    }
+  },
+  "en": {
+    "version": "1.0",
+    "lang": {
+      "promoquiapp::offer": {
+        "searchproduct": "Search product",
+        "choosecategory": "Choose category",
+        "other": "{{formatted_number}} Points",
+        "settings": "0 Points"
+      },
+      "promoquiapp::site": {
+          "settings": "Settings"
+      }
+    }
+  }
+}
