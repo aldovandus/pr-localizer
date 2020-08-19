@@ -25,7 +25,7 @@
       }
     }
   },
-   "us": {
+   "en-US": {
     "version": "1.0",
     "lang": {
       "promoquiapp::offer": {
