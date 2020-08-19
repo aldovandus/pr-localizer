@@ -24,5 +24,19 @@
           "settings": "Settings"
       }
     }
+  },
+   "us": {
+    "version": "1.0",
+    "lang": {
+      "promoquiapp::offer": {
+        "searchproduct": "Search product",
+        "choosecategory": "Choose category",
+        "other": "{{formatted_number}} Points",
+        "settings": "0 Points"
+      },
+      "promoquiapp::site": {
+          "settings": "Settings"
+      }
+    }
   }
 }
