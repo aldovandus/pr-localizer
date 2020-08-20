@@ -29,6 +29,9 @@
    "en-US": {
     "version": "1.0",
     "lang": {
+      "promoquiapp::user": {
+         "acceptprivacypolicy": "Accept the privacy policy"
+      },
       "promoquiapp::offer": {
         "searchproduct": "Search product",
         "choosecategory": "Choose category",
