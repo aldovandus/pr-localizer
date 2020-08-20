@@ -18,7 +18,8 @@
         "searchproduct": "Search product",
         "choosecategory": "Choose category",
         "other": "{{formatted_number}} Points",
-        "settings": "0 Points"
+        "settings": "0 Points",
+         "or": "Or"
       },
       "promoquiapp::site": {
           "settings": "Settings"
