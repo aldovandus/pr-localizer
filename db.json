@@ -48,5 +48,16 @@
           "settings": "Settings"
       }
     }
+  },
+    "versions": {
+      "it-IT": {
+           "version": "1.0",
+      },
+       "en-US": {
+           "version": "1.0",
+      },
+       "en": {
+           "version": "1.0",
+      }
   }
 }
