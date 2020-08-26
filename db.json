@@ -1,9 +1,9 @@
 {
    "it-IT": {
-    "version": "1.1",
+    "version": "1.2",
     "lang": {
       "promoquiapp::user": {
-         "acceptprivacypolicy": "Accetta la privacy"
+         "acceptprivacypolicy": "Accetta la privacy update"
       },
       "promoquiapp::offer": {
         "searchproduct": "Cerca prodotto",
@@ -51,7 +51,7 @@
   },
     "versions": {
         "it-IT": {
-           "version": "1.1"
+           "version": "1.2"
         },
         "en-US": {
            "version": "1.0"
